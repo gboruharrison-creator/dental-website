@@ -1,16 +1,40 @@
-# React + Vite
+# 🦷 BrightSmile Dental Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional 5-page dental clinic website — Project 1 of 5 in my web development portfolio.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://brightsmile-dental.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- React 19 + Vite + Tailwind CSS v4
+- AI-powered chatbot (Anthropic Claude API)
+- 5 languages — English, Italian, German, French, Spanish
+- Booking modal with form validation
+- Fully responsive, mobile-first design
+- SEO optimised — meta tags, Open Graph, JSON-LD schema, sitemap.xml
+- Smooth animations throughout
+- React Router v6 multi-page SPA
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Pages
 
-## Expanding the ESLint configuration
+| Page | Route | Description |
+|------|-------|-------------|
+| Home | `/` | Hero, services, testimonials, blog preview |
+| Services | `/services` | All treatments, FAQ accordion, filters |
+| About | `/about` | Team profiles, awards, clinic gallery |
+| Blog | `/blog` | Articles, search, category filters |
+| Contact | `/contact` | Booking form, map, opening hours |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+`React` `Vite` `Tailwind CSS` `React Router` `Anthropic API` `react-i18next` `EmailJS` `react-hot-toast`
+
+## Developer
+
+Built by **Harrison Gboru** — Full-Stack Developer & AI Integration Specialist
+
+- 📧 gboruharrison@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/harrison-gboru-52a142264/)
+- 🐙 [GitHub](https://github.com/gboruharrison-creator)
+
+> Open to remote roles, freelance projects, and long-term partnerships.

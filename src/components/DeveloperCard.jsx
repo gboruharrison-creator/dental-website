@@ -8,8 +8,7 @@ const DEV = {
   linkedin: "https://www.linkedin.com/in/harrison-gboru-52a142264/",
   stack: [
     "React", "Vite", "Tailwind CSS", "JavaScript",
-    "HTML5", "CSS3", "Supabase", "REST APIs",
-    "Anthropic Claude API", "AI Agents", "Automation", "i18n",
+    "HTML5", "CSS3", "Supabase", "REST APIs", "AI Agents", "Automation", "i18n",
   ],
   services: [
     { icon: "🌐", label: "Web Applications", desc: "React · Vite · Tailwind" },
